@@ -1,0 +1,20 @@
+{
+  "name": "my_helloworld_node_package",
+  "version": "1.0.1",
+  "description": "Creating Node Package. This is a simple exmaple of creating node pakcage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Balakumar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balakumartp/my_helloworld_node_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/balakumartp/my_helloworld_node_package/issues"
+  },
+  "homepage": "https://github.com/balakumartp/my_helloworld_node_package#readme"
+}
